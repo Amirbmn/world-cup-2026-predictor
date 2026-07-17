@@ -37,6 +37,7 @@ model.fit(matches_df, rankings_df)
 # 3. Predict
 prediction = model.predict('Spain', 'Argentina', is_knockout=True)
 print(f"Winner: {prediction['winner']}")
+```
 
 📊 Requirements
 * **numpy**
