@@ -39,6 +39,6 @@ print(f"Winner: {prediction['winner']}")
 ```
 
 📊 Requirements
-*numpy
-*pandas
-*scipy
+* **numpy**
+* **pandas**
+* **scipy**
